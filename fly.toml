@@ -1,6 +1,6 @@
 # fly.toml file generated for damp-waterfall-1363 on 2023-03-07T23:18:36+02:00
 
-app = "damp-waterfall-1363"
+app = "hello-fly-broken-smoke-9320"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
